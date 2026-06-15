@@ -1,4 +1,4 @@
-# Student Registration System
+# Smart Student Registration System
 A comprehensive MERN stack web application designed to streamline the student admission and registration process for educational institutions. It provides a secure, efficient, and paperless way to manage student enrollments, document verification, and administrative tasks.
 ## 🚀 Features
 - **Role-Based Access Control**: Dedicated, secure portals for Students, Administrators, and Department Admins.
@@ -34,8 +34,7 @@ A comprehensive MERN stack web application designed to streamline the student ad
 - A [Cloudinary](https://cloudinary.com/) account for image/document storage
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/rohitshinde-tech/Student-Registration-System.git
-cd student-registration-system
+git clone https://github.com/rohitshinde-tech/Smart-Student-Registration-System.git
 ```
 ### 2. Backend Setup
 ```bash
@@ -75,7 +74,7 @@ To access the Admin Panel for the first time, select the **Admin** tab on the lo
 *(The backend will automatically register this user as the Super Admin upon the first login attempt.)*
 ## 📁 Project Structure
 ```text
-student-registration-system/
+Smart-student-registration-system/
 ├── backend/                  # Express.js API
 │   ├── controllers/          # Business logic for routes
 │   ├── middleware/           # Custom middleware (auth, etc.)
